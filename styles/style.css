@@ -1,0 +1,41 @@
+* {
+    zoom: 95%
+}
+
+body {
+    background-image: url("../images/background.png");
+    background-size: cover;
+  }
+
+h2 {
+    text-align: center;
+}
+
+h5, h4 {
+    text-align: center;
+}
+
+#doge {
+    text-align: left;
+}
+
+#Fun-Fact {
+    float: center;
+    left: -200px;
+}
+
+#doge-text{
+    position:relative;
+    right: 100px;
+}
+
+a {
+    color: yellow;
+}
+
+.bordered {
+    text-shadow: -1px 1px 0 white,
+                          1px 1px 0 white,
+                         1px -1px 0 white,
+                        -1px -1px 0 white;
+}
